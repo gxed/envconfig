@@ -1,0 +1,14 @@
+{
+  "author": "lanzafame",
+  "bugs": {},
+  "gx": {
+    "dvcsimport": "github.com/kelseyhightower/envconfig"
+  },
+  "gxVersion": "0.14.0",
+  "language": "go",
+  "license": "",
+  "name": "envconfig",
+  "releaseCmd": "git commit -a -m \"gx publish $VERSION\"",
+  "version": "0.0.0"
+}
+
